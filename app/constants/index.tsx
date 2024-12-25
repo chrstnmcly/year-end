@@ -63,7 +63,7 @@ export const months = [
   {
     date: "November 30 2024",
     description: "This is my favorite picture of us. Looking at it, I’m reminded of how much we’ve grown over the past seven months. You are so beautiful, not just in this moment but in every moment, now and forever. Seeing how far we’ve come together makes me excited for everything that’s still ahead of us.",
-    image: "images/IMG_3403.JPG"
+    image: "images/IMG_3403.jpg"
   }
   
 ];
